@@ -1,0 +1,1 @@
+export { default as CategoriesViews } from './CategoriesView'

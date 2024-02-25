@@ -1,0 +1,39 @@
+/* styles.css (ou un autre nom de fichier selon votre organisation) */
+.custom-id-cell-1 {
+    background-color: #1abc9c; /* Couleur pour la classe custom-id-cell-1 */
+  }
+  
+  .custom-name-cell-example {
+    background-color: #3498db; /* Couleur pour la classe custom-name-cell-example */
+    color: #ffffff; /* Couleur du texte pour la classe custom-name-cell-example */
+  }
+  
+  .custom-priorite-cell-Moyen{
+    background-color: #f39c12; /* Couleur pour la classe custom-status-cell-InProgress */
+  }
+  
+  /* Ajoutez d'autres styles pour les classes générées selon vos besoins */
+  /* Styles CSS pour les statuts */
+.attente {
+    background-color: #3498db; /* Bleu */
+    color: #fff; /* Texte en blanc pour une meilleure lisibilité */
+  }
+  
+   .effectue {
+    background-color: #2ecc71; /* Vert */
+    color: #fff;
+  }
+  
+  .arret {
+    background-color: #e74c3c; /* Rouge */
+    color: #fff;
+  }
+  
+  .cours {
+    background-color: #f39c12; /* Jaune */
+    color: #fff;
+  }
+  
+  .custom-assignations-cell-{
+    background-color: #f33f12; /* Couleur pour la classe custom-status-cell-InProgress */
+  }
